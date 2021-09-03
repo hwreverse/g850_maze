@@ -1,5 +1,5 @@
-# g850_maze : "Maze" for Sharp PC-G850/V/VS 
-"Maze" Problem Implementations in C and Z80 Assembler for Sharp PC-G850/V/VS Pocket Computers
+# g850_maze : "Maze" for Sharp PC-G850/V/VS (ポケコン)
+"Maze" Problem Implementations in C and Z80 Assembler for Sharp PC-G850/V/VS Pocket Computers #ポケコン
 
 !["Maze" on G850* Screen](img/maze.jpg)
 
