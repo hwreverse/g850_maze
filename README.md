@@ -1,6 +1,7 @@
 # g850_maze : "Maze" for Sharp PC-G850/V/VS 
 "Maze" Problem Implementations in C and Z80 Assembler for Sharp PC-G850/V/VS Pocket Computers
 
+!["Maze" on G850* Screen](img/maze.jpg)
 
 
 
@@ -71,5 +72,12 @@ THANKS TO:
 
 
 Provided as is,<br>
-by HWR0 (@r0_hw)
+by HWR0 (@r0_hw)<br>
+
+
+<a href="https://github.com/hwreverse/g850_main/tree/main/MCBreakoutBoard"><b>
 P.S.: Here , a part of my pocket computer collection!
+
+![Breakout Board](img/smallcoll.jpg)
+
+  </b></a>
