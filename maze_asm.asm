@@ -55,9 +55,6 @@ while:
             cp 3
             jp Z, c1
 next:
-;   ld DE, 0x0000
-;	ld BC, 0x2f8f
-;	call vupdate
     pop de
     dec d
     dec d
@@ -67,11 +64,6 @@ next:
     dec e
     jp NZ, lp1
     jp maze_update
-d2:
-d3:
-    pop de
-
-    jp next
 
 c1:
     pop de
