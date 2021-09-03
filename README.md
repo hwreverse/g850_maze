@@ -74,6 +74,11 @@ THANKS TO:
 Provided as is,<br>
 by **HWR0 (@r0_hw)** <br>
 
+![USBC to Sharp PC-G850 Connector](img/usbc.jpg) <br>
+If you need a small , reliable and cheap interface from your computer to your G850*,
+write to my email address *evilhardware(аt)mail.ru* or msg me on Twitter. I have several in stock and I can ship to Europe, US, and Asia 
+(depending on epidemiologic situation)
+
 
 <a href="https://raw.githubusercontent.com/hwreverse/g850_maze/main/img/hwr0pokekon.jpg"><b>
 P.S.: Here , a part of my pocket computer collection!
