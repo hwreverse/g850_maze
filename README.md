@@ -72,7 +72,7 @@ THANKS TO:
 
 
 Provided as is,<br>
-by HWR0 (@r0_hw)<br>
+by **HWR0 (@r0_hw)** <br>
 
 
 <a href="https://github.com/hwreverse/g850_main/tree/main/MCBreakoutBoard"><b>
