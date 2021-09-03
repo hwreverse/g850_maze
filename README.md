@@ -11,21 +11,21 @@ Programmed by :<br>
 	*evilhardware(аt)mail.ru*
 
 
-maze_std.c	:
+maze_std.c : <a href="https://github.com/hwreverse/g850_maze/blob/main/maze_std.c">view</a>   
 -------------
 	Slow double precision floating point random numbers
 	Straightforward C code implementation with graphics and math library
 	Is linked by z88dk with generic Z80 math library
 	Speed = 4.77sec approximately
 	
-maze_fastc1.c :
+maze_fastc1.c : <a href="https://github.com/hwreverse/g850_maze/blob/main/maze_fastc1.c">view</a>
 ---------------
 	Fast Linear Congruential Method Integer PRNG coded in inline z80 assembler
 	Straightforward C code implementation with graphics library (no math library)
 	Compiled by z88dk
 	Speed = 1.1sec approximately
 
-maze_fastc2.c :
+maze_fastc2.c : <a href="https://github.com/hwreverse/g850_maze/blob/main/maze_fastc2.c">view</a>
 ---------------
 
 	Fast Linear Congruential Method Integer PRNG - modification proposed by @fujitanozomu
@@ -33,7 +33,7 @@ maze_fastc2.c :
 	Compiled by z88dk
 	Speed = *to be tested (should be <1.1sec!)
 
-maze_asm.asm :
+maze_asm.asm : <a href="https://github.com/hwreverse/g850_maze/blob/main/maze_asm.asm">view</a>
 --------------
 	Straightforward exclusive Assembler implementation
 	GFX routines partially implemented from libg800
@@ -41,7 +41,7 @@ maze_asm.asm :
 	Image generation in memory, then copy to VRAM with single update to screen 
 	Speed = 0.15-0.25s (!) 
 
-maze_fasm.asm :
+maze_fasm.asm : <a href="https://github.com/hwreverse/g850_maze/blob/main/maze_fasm.asm">view</a> 
 --------------
 	**Fastest implementation up to date**
 	
