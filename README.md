@@ -51,7 +51,7 @@ maze_fasm.asm :
   	Optimised jumps, Kept absolute jumps because of speed
 	Sacrificed memory over speed by copying the point(X,Y) routine over each 'call vaddress'
 	Image generation in memory, then copy to VRAM with single update to screen
-	Speed < 0.15 (screen refresh is slow, cannot be measured visually any longer)
+	Speed < 0.15s (screen refresh is slow, cannot be measured visually any longer)
   
   
   
