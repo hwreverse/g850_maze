@@ -8,7 +8,7 @@
 
 Programmed by :<br>
 	**HWR0** (@r0_hw) <br>
-	*evilhardware@mail.ru*
+	*evilhardware(at)mail.ru*
 
 
 maze_std.c	:
