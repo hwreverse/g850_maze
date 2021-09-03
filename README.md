@@ -14,7 +14,7 @@ maze_std.c	:
 -------------
 	Slow double precision floating point random numbers
 	Straightforward C code implementation with graphics and math library
-	Compiled by z88dk with generic math library
+	Is linked by z88dk with generic Z80 math library
 	Speed = 4.77sec approximately
 	
 maze_fastc1.c :
@@ -42,25 +42,28 @@ maze_asm.asm :
 
 maze_fasm.asm :
 --------------
-	Fastest implementation up to date
-  Straightforward exclusive Assembler implementation
-  GFX routines partially implemented from libg800
+	**Fastest implementation up to date**
+	
+  	Straightforward exclusive Assembler implementation
+  	GFX routines partially implemented from libg800
 	Fast Linear Congruential Method Integer PRNG - modification proposed by @fujitanozomu
-  Optimised jumps, Sacrificed memory over speed by copying the point(X,Y) routine 
+  	Optimised jumps, Kept absolute jumps because of speed
+	Sacrificed memory over speed by copying the point(X,Y) routine over each 'call vaddress'
 	Image generation in memory, then copy to VRAM with single update to screen
 	Speed < 0.15 (screen refresh is slow, cannot be measured visually any longer)
   
   
   
-##TODO: 	
-		Implement precise time measurement on PC-G850/V/VS by flipping PIO pin before and after "maze" to measure the delay between with a Logic Analyzer or an Arduino!
+## TODO: 	
+	Implement precise time measurement on PC-G850/V/VS by flipping PIO pin
+	before and after "maze" to measure the delay between with a Logic Analyzer or an Arduino!
 		
     
     
 THANKS TO:
 ----------
 
-*@hd61yukimizake*, for providing the mathematical "maze problem" idea on Twitter, <br>
+*@hd61yukimizake*, for providing the mathematical "maze problem" idea on Twitter, and the asm sourcecode for the PB-1000<br>
 *@fujitanozomu* for his PRNG variant <br>
 *The original author of the libg800 library* <br>
 
