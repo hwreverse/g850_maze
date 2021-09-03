@@ -8,7 +8,7 @@
 
 Programmed by :<br>
 	**HWR0** (@r0_hw) <br>
-	*evilhardware(at)mail.ru*
+	*evilhardware(аt)mail.ru*
 
 
 maze_std.c	:
@@ -78,6 +78,6 @@ by HWR0 (@r0_hw)<br>
 <a href="https://github.com/hwreverse/g850_main/tree/main/MCBreakoutBoard"><b>
 P.S.: Here , a part of my pocket computer collection!
 
-![Breakout Board](img/smallcoll.jpg)
+![Collection](img/smallcoll.jpg)
 
   </b></a>
