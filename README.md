@@ -75,7 +75,7 @@ Provided as is,<br>
 by **HWR0 (@r0_hw)** <br>
 
 
-<a href="https://github.com/hwreverse/g850_main/tree/main/MCBreakoutBoard"><b>
+<a href="https://raw.githubusercontent.com/hwreverse/g850_maze/main/img/hwr0pokekon.jpg"><b>
 P.S.: Here , a part of my pocket computer collection!
 
 ![Collection](img/smallcoll.jpg)
